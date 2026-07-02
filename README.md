@@ -160,4 +160,5 @@ The decline in revenue toward October 2024 is an important trend. It suggests th
 
 The dashboard preview shows a complete single-page Power BI report with KPI cards, category filters, purchase date slicer, product-wise cancellation rate, state-wise revenue, category-wise revenue, product-wise revenue, and quarterly revenue trend analysis.
 
-Dashboard preview: 
+Dashboard preview:<img width="1327" height="748" alt="Screenshot_BlueDart_Dashboard" src="https://github.com/user-attachments/assets/02a70e0c-73e1-4c32-ad8b-adfbd50d9a4f" />
+
